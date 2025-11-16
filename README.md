@@ -1,5 +1,5 @@
-Proyecto Supabase – ToDo App
-Instalación y ejecución
+##Proyecto Supabase – ToDo App
+#Instalación y ejecución
 
 Paso 1. Descargar el proyecto y colocarlo en una carpeta.
 
